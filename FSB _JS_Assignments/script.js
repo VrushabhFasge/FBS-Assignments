@@ -1,4 +1,4 @@
-function que1(){
+function greetUser(){
     let name = prompt("Enter you name.")
     console.log(`Hello ${name}`)
 }
